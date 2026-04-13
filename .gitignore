@@ -1,0 +1,4 @@
+n8n_data/binaryData/
+n8n_data/crash.log
+*.sqlite-shm
+*.sqlite-wal
